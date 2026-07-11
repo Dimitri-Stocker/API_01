@@ -8,21 +8,21 @@ A aplicação implementa um CRUD (Create, Read, Update e Delete) de usuários, p
 Além das operações básicas, o projeto serve como ambiente de estudo para arquitetura de APIs, organização de rotas, integração com banco de dados e utilização de ORM para abstrair o acesso ao banco de dados, oferecendo uma API mais intuitiva para realizar as operações de leitura e escrita, além de facilitar a manutenção e portabilidade da aplicação em diferentes bancos de dados.
 
 ## Tecnologias utilizadas
-Node.js
-Express
-MongoDB Atlas
-Prisma ORM
+- Node.js
+- Express
+- MongoDB Atlas
+- Prisma ORM
 
 ## Funcionalidades
-Criar um usuário
-Listar todos os usuários
-Buscar um usuário por ID
-Atualizar um usuário
-Remover um usuário
+- Criar um usuário
+- Listar todos os usuários
+- Buscar um usuário por ID
+- Atualizar um usuário
+- Remover um usuário
 
 ## Como executar o projeto
 ### Clone o repositório
-git clone <url-do-repositorio>
+git clone API_01
 
 ### Instale as dependências
 npm install
@@ -42,6 +42,7 @@ npm run dev
 
 A API ficará disponível em:
 http://localhost:3000
+
 Ou na porta definida na variável PORT no arquivo .env
 
 ## Objetivo
